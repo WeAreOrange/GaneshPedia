@@ -35,7 +35,7 @@ menu:
       url: "https://egov.sy"
       weight : 4
       params : 
-       icon: syria 
+       icon: heart 
 
 params:
   navbar:
