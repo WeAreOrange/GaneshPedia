@@ -13,5 +13,4 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
 {{< /cards >}}
 
 
-![image](https://github.com/user-attachments/assets/fd55f690-8d12-43c0-b8b7-eb2bd461ff7c)
-###above image is a placeholder mk please make a proper .png pls
+![image](https://github.com/user-attachments/assets/19584dcf-3cd3-40fc-a4e0-8fd8c45b5499)
