@@ -45,8 +45,9 @@ params:
   logo:
       path: static/images/logo.svg
       dark: static/images/logo.svg
-       width: 70
-       height: 50
+
+  width: 70
+  height: 50
    
 
 footer:
