@@ -1,6 +1,7 @@
 ---
 title: What is Ganesh
 next: Calculating-the-weight-of-ganesh
+math: true
 ---
 Ganesh, the supreme leader of Syria, is a strikingly distinctive figure known for his unique combination of authority and affability. His rotund physique and generous girth make him instantly recognizable, embodying an imposing yet approachable presence. With a penchant for indulgence, Ganesh is rarely seen without a delectable ladoo in hand, his favorite treat that he savors with childlike delight. His love for these sweet confections is well-known, and he often quips that his heart is as round as his belly, filled with the joy of life's simple pleasures.
 
