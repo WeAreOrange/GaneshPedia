@@ -1,13 +1,10 @@
 ---
-title: Demo Page
+title: Calculating The Weight of Ganesh
 type: docs
 prev: /
 next: docs/folder/
+math: true
 ---
-
-# Calculating The Weight of Ganesh
-
-## Calculating the Weight of Ganesh
 
 To calculate the weight of Ganesh based on the fictional description (a being containing the universe), we need to use the concept of the mass-energy content of the observable universe. Here’s a step-by-step approach:
 
