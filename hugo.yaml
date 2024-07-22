@@ -40,7 +40,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
 
   logo:
       path: static/images/logo.svg
